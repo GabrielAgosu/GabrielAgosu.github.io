@@ -5,9 +5,9 @@
     width: 650px;;
 }
 .space2 { height: 20px;}
-#bag {background-color: antiquewhite;height:175px;}
+#bag {background-color: antiquewhite;height:175px;margin-right: -2.2%;}
 .col-6 {height:175px;}
 #yell {margin-top: -27%;
 margin-left: 6.5%;}
-#fake {background-color: antiquewhite;height:175px;margin-right: -3%;
+#fake {background-color: antiquewhite;height:175px;margin-right: -3%;margin-left: .9%;
 }
