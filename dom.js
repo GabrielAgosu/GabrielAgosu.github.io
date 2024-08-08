@@ -1,3 +1,7 @@
+document.body.style.backgroundColor= 'silver'
+document.body.style.color='black'
+
+
 let colorbutton =document.querySelector("#please")
 
 function changebackgroundcolor(){
