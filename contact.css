@@ -27,7 +27,7 @@ body {
 
 
 #mook{
-height: 450px;width:750px; border: 20px solid black;  margin: 0; 
+height: 350px;width:600px; border: 20px solid black;  margin: 0; 
 }
 
 
@@ -36,12 +36,21 @@ height: 450px;width:750px; border: 20px solid black;  margin: 0;
 }
 
 
-
-
-
-
-
+#palet{
+    height: 200px;width:500px;margin-right: -32%;
 }
+
+
+#palet2{
+    height: 200px;width:500px;margin-right: 1000%;
+}
+
+
+
+
+
+
+
 
 #top {
     font-family: 'just another hand';font-size: 25px;color:#AE37E6;background-color:#FFFF94;
@@ -74,3 +83,11 @@ body {
 .yip{
    height: 60px;
 }
+
+
+.space4{
+    height: 10px;
+}
+
+
+
