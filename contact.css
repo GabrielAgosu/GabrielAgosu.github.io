@@ -1,0 +1,76 @@
+#top {
+    font-family: 'just another hand';font-size: 25px;color:#AE37E6;background-color:#FFFF94;
+}
+
+#picture {
+    height:65px
+}
+
+
+
+body {
+    border: 30px solid black;  margin: 0;
+    height: 100vh;background-color:silver;
+}
+
+
+.back {
+    background-color:#D188FF;
+}
+.next{
+    background-color:#D188FF;
+}
+
+.none{
+    background-color:#D188FF;
+}
+
+
+#mook{
+height: 450px;width:750px; border: 20px solid black;  margin: 0; 
+}
+
+
+.space{
+    height: 75px;font-size: 55px;;
+}
+
+
+
+
+
+
+
+}
+
+#top {
+    font-family: 'just another hand';font-size: 25px;color:#AE37E6;background-color:#FFFF94;
+}
+
+body {
+    border: 30px solid black;  margin: 0; /* Remove default body margins */
+    height: 100vh;
+}
+
+
+#picture {
+    height:65px
+}
+
+
+.back {
+    background-color:#D188FF;
+}
+.next{
+    background-color:#D188FF;
+}
+
+.none{
+    background-color:#D188FF;
+}
+
+
+
+.yip{
+   height: 60px;
+}

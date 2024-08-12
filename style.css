@@ -1,16 +1,16 @@
-.space  {height: 100px;font-family: 'just another hand'; font-size: 40px; color:#45434F;}
+.space  {height: 90px;font-family: 'just another hand'; font-size: 40px;}
 .box {
     height: 350px;
     background-color:rgb(253, 253, 253);
     width: 650px;;
 }
 .space2 { height: 20px;}
-#bag {;height:175px;margin-right: -2.2%;font-family:'justanotherhand'; font-size: 17px;color:#45434F;border: 10px solid #FFFF94;font-weight: bold}
+#bag {;height:175px;margin-right: -2.2%;font-family:'justanotherhand'; font-size: 17px;;border: 10px solid #FFFF94;font-weight: bold}
 
 .col-6 {height:175px;}
 #yell {margin-top: -27%;margin-left: 100%;
 margin-left: 6.5%;}
-#fake {;height:175px;margin-right: -1.5%;margin-left: 1%; border: 10px solid #FFFF94; ;
+#fake {;height:175px;margin-right: -1.5%;margin-left: 1%; border: 10px solid #FFFF94;font-weight:bold; font-family:'justanotherhand';font-size: 17px;
 }
 
 body {
@@ -27,9 +27,30 @@ body {
 }
 
 .space3 {
-    height:-5px;
+    height:105px;
 }
 
 #picture {
     height:65px
+}
+
+
+.back {
+    background-color:#D188FF;
+}
+.next{
+    background-color:#D188FF;
+}
+
+.none{
+    background-color:#D188FF;
+}
+
+.chance{
+    height: 100px;
+}
+
+
+.yip{
+   height: 60px;
 }
