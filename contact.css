@@ -15,14 +15,14 @@ body {
 
 
 .back {
-    background-color:#D188FF;
+    background-color:rgba(0, 0,0,0)
 }
 .next{
-    background-color:#D188FF;
+    background-color:rgba(0, 0,0,0)
 }
 
 .none{
-    background-color:#D188FF;
+    background-color:rgba(0, 0,0,0)
 }
 
 
@@ -68,16 +68,15 @@ body {
 
 
 .back {
-    background-color:#D188FF;
+    background-color:rgba(0, 0,0,0);border: 0cm;color: #AE37E6;
 }
 .next{
-    background-color:#D188FF;
+    background-color:rgba(0, 0,0,0);border: 0cm;color: #AE37E6;
 }
 
 .none{
-    background-color:#D188FF;
+    background-color:rgba(0, 0,0,0);border: 0cm;color: #AE37E6;
 }
-
 
 
 .yip{
