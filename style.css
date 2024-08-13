@@ -1,4 +1,4 @@
-.space  {height: 90px;font-family: 'just another hand'; font-size: 40px;}
+.space  {height: 97px;font-family: 'just another hand'; font-size: 40px;}
 .box {
     height: 350px;
     background-color:rgb(253, 253, 253);
@@ -22,7 +22,7 @@ body {
 }
 
 body {
-    border: 30px solid black;  margin: 0; /* Remove default body margins */
+    border: 25px solid black;  margin: 0; /* Remove default body margins */
     height: 100vh;
 }
 
