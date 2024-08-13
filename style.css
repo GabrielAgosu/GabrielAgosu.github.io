@@ -5,12 +5,12 @@
     width: 650px;;
 }
 .space2 { height: 20px;}
-#bag {;height:175px;margin-right: -2.2%;font-family:'justanotherhand'; font-size: 17px;;border: 10px solid #FFFF94;font-weight: bold}
+#bag {;height:175px;margin-right: -2.2%;font-family:'justanotherhand'; font-size: 18px;;border: 5px solid #FFFF94;font-weight: bold}
 
 .col-6 {height:175px;}
 #yell {margin-top: -27%;margin-left: 100%;
 margin-left: 6.5%;}
-#fake {;height:175px;margin-right: -1.5%;margin-left: 1%; border: 10px solid #FFFF94;font-weight:bold; font-family:'justanotherhand';font-size: 17px;
+#fake {;height:175px;margin-right: -1.5%;margin-left: 1%; border: 5px solid #FFFF94;font-weight:bold; font-family:'justanotherhand';font-size: 18px;
 }
 
 body {
