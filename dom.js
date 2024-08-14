@@ -1,14 +1,9 @@
 document.body.style.fontFamily='justanotherhand'
-document.body.style.backgroundColor= 'silver'
-document.body.style.color='black'
+document.body.style.backgroundColor= 'black'
+document.body.style.color='white'
 
 
 let resetbutton=document.querySelector('#reset')
-
-function resetpage(){
-    document.body.style.color=('black');document.body.style.backgroundColor=('silver')
-}
-resetbutton.addEventListener('click', resetpage)
 
 
 
